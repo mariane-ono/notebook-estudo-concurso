@@ -33,18 +33,41 @@ Para atuar como um assistente especialista no meu "Segundo Cérebro", a seguinte
 
 Abaixo estão registrados os principais testes e consultas realizados no repositório do notebook:
 
-### ❓ Pergunta 1: *Quais são as melhores técnicas de estudos para concursos?*
-* **Resumo da Resposta:** O notebook sintetiza as melhores práticas para concursos em um sistema focado em **aprendizagem ativa, flexibilidade de rotina e retenção de longo prazo**, estruturando-se nos seguintes pontos-chave:
+### Pergunta 1: *Quais são as melhores metodologias para organizar um ciclo de estudos?*
+* **Resumo da Resposta:** Um planejamento contínuo desvinculado de dias fixos da semana, garantindo flexibilidade e retomada simples após imprevistos.
 
-1. **Regra 60/40 (Teoria x Prática):** O consumo passivo de conteúdo deve dar lugar à ação. Recomenda-se destinar 60% a 70% do tempo à resolução de questões e revisões, e apenas 30% a 40% à teoria.
-2. **Ciclo de Estudos (Em vez de Cronograma Rígido):** Substitui os dias fixos da semana por uma sequência contínua de matérias. Se um imprevisto interrompe o dia, os estudos continuam de onde pararam, sem acúmulo de cobranças. O ciclo deve intercalar disciplinas de naturezas distintas (*interleaving*) e priorizar matérias de maior peso, ementa extensa ou maior dificuldade.
-3. **Revisões e Combate à Curva do Esquecimento:** O uso de revisões periódicas (semanais, mensais e acumulativas a cada 60 dias) e de um *caderno de erros* impede que se perca até 90% do conteúdo estudado ao longo do mês.
-4. **Ferramentas de Memorização Ativa:** Destaca o uso de *Active Recall* (perguntas sem consulta), *Flashcards* (Anki), a *Técnica de Feynman* (explicar o conteúdo com as próprias palavras) e sínteses visuais como mapas mentais.
-5. **Gestão de Tempo e Prova Real:** Uso do *Método Pomodoro* para manter o foco em blocos curtos, além da leitura obrigatória da lei seca e da realização de simulados cronometrados em condições reais de prova.
+Abordagem Integrada: Une o foco em pesos e relevância (Estratégia), ciclos flexíveis e alternância (Mapas da Lulu), e metas práticas combinadas com simulados (Gran Cursos).
+
+Montagem Prática:
+
+Mapeamento: Analise pesos e incidência real de questões da banca.
+
+Ponderação: Distribua blocos conforme o peso, extensão e sua dificuldade na matéria (respeitando pré-requisitos).
+
+Alternância (Interleaving): Alterne áreas diferentes (ex: Direito e Exatas) e métodos (PDF, videoaula, questões) para evitar fadiga.
+
+Sessões: Mantenha blocos de 45 a 75 minutos para preservar o foco.
 * **Fontes Utilizadas:** *Laura Amorim* , *Estratégia Concursos* , *Gran Cursos* e *IFOPE*.
-### ❓ Pergunta 2: *Como fazer revisões periódicas eficientes?*
-* **Resumo da Resposta:** A aprovação em concursos públicos **não é determinada pela quantidade bruta de horas**, mas sim pela **regularidade, qualidade do método e constância**. Para quem concilia trabalho e estudo, a faixa de **2 a 3 horas líquidas diárias** mantida com regularidade é a que mais gera aprovações, somando cerca de **21 horas semanais** e mais de **540 horas em seis meses** de preparação — volume suficiente para cobrir os principais editais de níveis médio e superior. O foco deve estar em transformar o estudo em uma **prioridade inegociável na agenda**, e não em uma atividade secundária feita apenas quando "sobrar tempo"".
-* **Fontes Utilizadas:** *IFOPE*
+  
+### Pergunta 2: *Como funciona o método Pomodoro?*
+* **Resumo da Resposta:** Técnica de gestão de tempo que alterna blocos de foco total com pausas curtas para combater a procrastinação e evitar a fadiga mental.
+Estrutura Clássica: 25 min de foco + 5 min de pausa. Após 4 ciclos, faz-se uma pausa longa de 20 a 30 min. (Adaptável conforme a densidade da matéria, de 45 a 75 min).
+
+Visão Integrada:
+
+Estratégia: Foco em evitar o "tempo de cadeira" passivo.
+
+Gran Cursos: Pausas indispensáveis para assimilação e equilíbrio emocional.
+
+Mapas da Lulu: Respeito aos limites biológicos (limite ideal de até 75 min contínuos).
+
+| Fase do Edital | Diretriz Estratégia |
+| :--- | :--- |
+| Pré-edital | Blocos mais longos (45–60 min) focados em teoria profunda e sustentabilidade.
+| Pós-edital | Blocos dinâmicos (25–30 min) voltados a simulados, questões e ritmo de prova.
+
+Dica de Ouro: Zero distrações durante o foco e nunca pule as pausas.
+* **Fontes Utilizadas:** *Laura Amorim* , *Estratégia Concursos* , *Gran Cursos* e *IFOPE*
 
 
 ---
